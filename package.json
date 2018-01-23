@@ -1,0 +1,32 @@
+{
+  "name": "publitio_jquery_sdk",
+  "version": "1.0.0",
+  "description": "Simple jQuery SDK for Publitio API.",
+  "main": "publitio_jquery_sdk.js",
+  "scripts": {
+    "build": "babel src -d dist",
+    "dev": "watch 'npm run build' src",
+    "prepublish": "npm run build",
+    "release": "np"
+  },
+  "babel": {
+    "presets": [
+      "env"
+    ]
+  },
+  "keywords": [
+    "publitio",
+    "api",
+    "jquery",
+    "sdk"
+  ],
+  "author": "",
+  "license": "",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "np": "^2.18.3",
+    "watch": "^1.0.2"
+  },
+  "dependencies": {}
+}
