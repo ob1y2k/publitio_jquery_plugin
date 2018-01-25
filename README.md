@@ -72,6 +72,6 @@ $.publitio.call('/files/list', 'GET', { offset: '0', limit: '10' })
 
 ```
 
-See **`examples.js`** file for full list of available classes, methods and options, or check the official docs on [Publitio Docs](https://www.publit.io)
+See **`examples.js`** file for full list of available classes, methods and options, or check the official docs on [Publitio Docs](https://publit.io/docs)
 
 ---
