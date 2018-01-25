@@ -4,7 +4,7 @@
 ---
 ### Description
 
-Simple jQuery SDK for [Publitio API](https://publit.io/)
+Simple jQuery Plugin for [Publitio API](https://publit.io/)
 
 ---
 
