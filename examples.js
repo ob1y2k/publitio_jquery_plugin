@@ -3,7 +3,7 @@ $(document).ready(() => {
   // file => some JS File
 
   // Please update xxxx with your key and yyyy with your secret
-  $.publitio.init('o1m9dNVvNmPT2HmAy97p', 'TVPSLpSwzAWVraSvNyXoRyaGbmczk9V7')
+  $.publitio.init('xxxx', 'yyyy')
 
 
   /*_________________________*/
