@@ -4,7 +4,7 @@
 ---
 ### Description
 
-Simple jQuery SDK for **Publitio API**.
+Simple jQuery SDK for [Publitio API](https://publit.io/)
 
 ---
 
@@ -43,9 +43,9 @@ $ yarn add publitio_jquery_sdk
 <script src="http://code.jquery.com/jquery-3.2.1.min.js"></script>
 <!-- Your CryptoJS CDN script -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9-1/crypto-js.min.js"></script>
-<!-- Or if you use the npm package for CryptoJS -->
-<script src="./node_modules/crypto-js/crypto-js.js"></script>
-
+<!-- Or if you use the npm package for CryptoJS
+<script src="./node_modules/crypto-js/crypto-js.js"></script> -->
+<!-- Include Publitio jQuery Plugin script-->
 <script src="node_modules/publitio_jquery_sdk/dist/publitio.js"></script>
 
 ```
@@ -72,6 +72,6 @@ $.publitio.call('/files/list', 'GET', { offset: '0', limit: '10' })
 
 ```
 
-See **`examples.js`** file for full list of available classes, methods and options, or check the official docs on *www.publit.io.*
+See **`examples.js`** file for full list of available classes, methods and options, or check the official docs on [Publitio Docs](https://www.publit.io)
 
 ---
