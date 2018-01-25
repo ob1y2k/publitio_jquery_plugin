@@ -10,7 +10,7 @@ Simple jQuery Plugin for [Publitio API](https://publit.io/)
 
 ### Requirements
 
- This SKD is dependent on **jQuery** and **CryptoJS**.
+ This Plugin is dependent on **jQuery** and **CryptoJS**.
  For obvious reasons it needs to be loaded **after** jQuery and CryptoJS, otherwise it won't work. 
 
 ---
