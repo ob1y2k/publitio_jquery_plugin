@@ -1,6 +1,6 @@
 {
   "name": "publitio_jquery_plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple jQuery Plugin for Publitio API.",
   "main": "publitio_jquery_sdk.js",
   "scripts": {
