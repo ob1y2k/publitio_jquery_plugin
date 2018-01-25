@@ -1,7 +1,7 @@
 {
-  "name": "publitio_jquery_sdk",
+  "name": "publitio_jquery_plugin",
   "version": "1.0.0",
-  "description": "Simple jQuery SDK for Publitio API.",
+  "description": "Simple jQuery Plugin for Publitio API.",
   "main": "publitio_jquery_sdk.js",
   "scripts": {
     "build": "babel src -d dist",
@@ -18,7 +18,7 @@
     "publitio",
     "api",
     "jquery",
-    "sdk"
+    "plugin"
   ],
   "author": "",
   "license": "",

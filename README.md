@@ -21,7 +21,7 @@ Simple jQuery Plugin for [Publitio API](https://publit.io/)
 
 ```shell
 
-$ npm install publitio_jquery_sdk --save
+$ npm install publitio_jquery_plugin --save
 
 ```
 
@@ -29,7 +29,7 @@ $ npm install publitio_jquery_sdk --save
 
 ```
 
-$ yarn add publitio_jquery_sdk
+$ yarn add publitio_jquery_plugin
 
 ```
 
